@@ -20,6 +20,7 @@ public class Ejemplo01 {
         nombreEstudiante = "René Elizalde";
         System.out.println(nombreEstudiante);
         System.out.println("René Elizalde");
+        //no es necesario declarar nuevamente una variable, si queremos asignarle un nuevo valor simplemente ponemos la variable y el nuevo valor
         nombreEstudiante = "Felipe Elizalde";
         System.out.println(nombreEstudiante);
     }
